@@ -1,0 +1,14 @@
+{
+  "title": "Автоматическая эвакуации ВМ",
+  "shortDescription": "",
+  "metaDescription": "Автоматическая эвакуации ВМ",
+  "sectionTitle": "Автоматическая эвакуации ВМ",
+  "uuid": "",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Основная информация",
+  "shortDescription": "",
+  "metaDescription": "Основная информация",
+  "sectionTitle": "Основная информация",
+  "uuid": "",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}

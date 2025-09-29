@@ -1,0 +1,14 @@
+{
+  "title": "Методы разделения {var(system)}",
+  "shortDescription": "",
+  "metaDescription": "Методы разделения {var(system)}",
+  "sectionTitle": "Методы разделения {var(system)}",
+  "uuid": "",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}

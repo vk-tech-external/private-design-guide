@@ -1,0 +1,14 @@
+{
+  "title": "Архитектура {var(system)}",
+  "shortDescription": "",
+  "metaDescription": "Архитектура {var(system)}",
+  "sectionTitle": "Архитектура {var(system)}",
+  "uuid": "",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Градации размеров инсталляций",
+  "shortDescription": "",
+  "metaDescription": "Градации размеров инсталляций",
+  "sectionTitle": "Градации размеров инсталляций",
+  "uuid": "",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}

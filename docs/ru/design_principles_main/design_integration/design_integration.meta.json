@@ -1,0 +1,14 @@
+{
+  "title": "Интеграции",
+  "shortDescription": "",
+  "metaDescription": "Интеграции",
+  "sectionTitle": "Интеграции",
+  "uuid": "",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}
