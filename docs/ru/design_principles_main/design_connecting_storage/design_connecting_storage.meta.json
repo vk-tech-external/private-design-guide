@@ -1,0 +1,14 @@
+{
+  "title": "Универсальное подключение СХД",
+  "shortDescription": "",
+  "metaDescription": "Универсальное подключение СХД",
+  "sectionTitle": "Универсальное подключение СХД",
+  "uuid": "",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  }
+}
