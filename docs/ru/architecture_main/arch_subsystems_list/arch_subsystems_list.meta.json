@@ -1,0 +1,13 @@
+{
+  "title": "Функциональные подсистемы {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Функциональные подсистемы {var(sys2)}",
+  "sectionTitle": "Функциональные подсистемы {var(sys2)}",
+  "uuid": "",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

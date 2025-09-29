@@ -1,0 +1,13 @@
+{
+  "title": "Ограничения {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Ограничения {var(sys2)}",
+  "sectionTitle": "Ограничения {var(sys2)}",
+  "uuid": "",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

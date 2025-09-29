@@ -1,0 +1,13 @@
+{
+  "title": "Анализ входных данных",
+  "shortDescription": "",
+  "metaDescription": "Анализ входных данных",
+  "sectionTitle": "Анализ входных данных",
+  "uuid": "",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}
