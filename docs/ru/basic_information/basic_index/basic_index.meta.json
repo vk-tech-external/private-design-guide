@@ -1,0 +1,13 @@
+{
+  "title": "Наименование",
+  "shortDescription": "",
+  "metaDescription": "Наименование",
+  "sectionTitle": "Наименование",
+  "uuid": "abc671af-eaa7-42b3-a0e5-d4885976c79f",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Расчёты серверов контура управления",
+  "shortDescription": "",
+  "metaDescription": "Расчёты серверов контура управления",
+  "sectionTitle": "Расчёты серверов контура управления",
+  "uuid": "4b45c0a3-cc1f-4a52-beb7-e1ebda637b97",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

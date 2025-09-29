@@ -1,0 +1,13 @@
+{
+  "title": "Сети {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Сети {var(sys2)}",
+  "sectionTitle": "Сети {var(sys2)}",
+  "uuid": "3a64cc04-6b34-453b-8507-f95a794e2eb9",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

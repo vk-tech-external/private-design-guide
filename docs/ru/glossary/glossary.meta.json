@@ -1,0 +1,13 @@
+{
+  "title": "Термины и сокращения",
+  "shortDescription": "",
+  "metaDescription": "Термины и сокращения",
+  "sectionTitle": "Термины и сокращения",
+  "uuid": "2cb5c018-7ef8-4207-9831-523c78275a61",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

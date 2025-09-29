@@ -1,0 +1,13 @@
+{
+  "title": "Компонентный состав {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Компонентный состав {var(sys2)}",
+  "sectionTitle": "Компонентный состав {var(sys2)}",
+  "uuid": "9927d10b-246e-4448-8bb4-ac9b240e4ff6",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

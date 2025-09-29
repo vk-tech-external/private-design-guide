@@ -1,0 +1,13 @@
+{
+  "title": "Роли серверов",
+  "shortDescription": "",
+  "metaDescription": "Роли серверов",
+  "sectionTitle": "Роли серверов",
+  "uuid": "a61de3de-245a-4fe4-98bc-dfdec61ac7d8",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

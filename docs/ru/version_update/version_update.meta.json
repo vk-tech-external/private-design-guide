@@ -1,0 +1,13 @@
+{
+  "title": "Обновление версии",
+  "shortDescription": "",
+  "metaDescription": "Обновление версии",
+  "sectionTitle": "Обновление версии",
+  "uuid": "eeebba97-27b5-46e6-aa66-42a52ed7c9c0",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

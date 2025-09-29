@@ -1,0 +1,13 @@
+{
+  "title": "Анализ входных данных",
+  "shortDescription": "",
+  "metaDescription": "Анализ входных данных",
+  "sectionTitle": "Анализ входных данных",
+  "uuid": "b298b6c7-67b4-442f-b332-b3dd67ee59ca",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

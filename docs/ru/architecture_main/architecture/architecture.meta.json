@@ -1,0 +1,13 @@
+{
+  "title": "Описание архитектуры {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Описание архитектуры {var(sys2)}",
+  "sectionTitle": "Описание архитектуры {var(sys2)}",
+  "uuid": "850307d7-202d-42c2-aa49-911fcc1c3236",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

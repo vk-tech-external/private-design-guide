@@ -1,0 +1,13 @@
+{
+  "title": "Расчёты серверов рабочих нагрузок",
+  "shortDescription": "",
+  "metaDescription": "Расчёты серверов рабочих нагрузок",
+  "sectionTitle": "Расчёты серверов рабочих нагрузок",
+  "uuid": "19f2dca8-9c33-4b5b-bba7-1c3f9c20f5ef",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

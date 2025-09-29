@@ -1,0 +1,13 @@
+{
+  "title": "Назначение документа",
+  "shortDescription": "",
+  "metaDescription": "Назначение документа",
+  "sectionTitle": "Назначение документа",
+  "uuid": "0b93513a-74ea-4655-bbf7-8577e61355ad",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

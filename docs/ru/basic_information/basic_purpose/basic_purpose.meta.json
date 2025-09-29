@@ -1,0 +1,13 @@
+{
+  "title": "Назначение {var(system)}",
+  "shortDescription": "",
+  "metaDescription": "Назначение {var(system)}",
+  "sectionTitle": "Назначение {var(system)}",
+  "uuid": "42217dcd-a977-4314-81e7-282abc6da0df",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

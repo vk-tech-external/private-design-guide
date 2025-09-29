@@ -1,0 +1,13 @@
+{
+  "title": "Подключение облака к КСПД",
+  "shortDescription": "",
+  "metaDescription": "Подключение облака к КСПД",
+  "sectionTitle": "Подключение облака к КСПД",
+  "uuid": "af27d106-b16a-41d3-b9e9-0a6e5b4b593c",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

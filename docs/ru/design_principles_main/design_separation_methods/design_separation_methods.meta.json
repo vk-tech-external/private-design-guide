@@ -1,0 +1,13 @@
+{
+  "title": "Методы разделения {var(system)}",
+  "shortDescription": "",
+  "metaDescription": "Методы разделения {var(system)}",
+  "sectionTitle": "Методы разделения {var(system)}",
+  "uuid": "36aa9a4f-6460-48de-8dff-ae1736b003fd",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+<mxfile host="Electron" modified="2024-10-03T06:16:18.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7UUVlJJsQ41AmhrCIoYV" version="22.1.2" type="device">
+  <diagram name="arch_subsystem" id="bEgJIQBJB0ulJ25TQlFj">
+    <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="70" y="210" width="970" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-2" value="&lt;font&gt;Интерфейсы администратора&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcSize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingBottom=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="327" y="225" width="700" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-3" value="&lt;font&gt;Группа подсистем PaaS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcSize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingBottom=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="81" y="462" width="230" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-4" value="&lt;font&gt;Группа подсистем IaaS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcSize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingBottom=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="327" y="462" width="700" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-5" value="&lt;font&gt;Общие подсистемы и компоненты&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcSize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingBottom=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="327" y="750" width="700" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-6" value="Подсистема управляемых контейнеров" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="100" y="615" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-7" value="Magnum" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="109.5" y="665" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-8" value="&lt;font&gt;Подсистема управляемых БД&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="502" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-9" value="Trove" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="110.5" y="552" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-10" value="Подсистема вычислительных ресурсов" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="347" y="502" width="200" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-11" value="Nova" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="552" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-12" value="KVM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="602" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-13" value="Подсистема хранения данных" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="559.5" y="502" width="230" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-14" value="Cinder" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="579" y="552" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-15" value="High-IOPS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="579.5" y="602" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-16" value="Ceph" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="579.5" y="652" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-17" value="Сетевая подсистема" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="801" y="502" width="210" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-18" value="Neutron" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816" y="552" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-19" value="Sprut" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816" y="602" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-20" value="Подсистема служебных хранилищ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="559.5" y="790" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-21" value="Glance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="574.8800000000001" y="840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-22" value="Barbican" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="679.8800000000001" y="840" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-23" value="Manila" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="890" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-24" value="Подсистема тарификации и биллинга" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="801" y="791" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-25" value="Scrooge" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816.25" y="841" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-26" value="General Billing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="910" y="841" width="86.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-27" value="Подсистема защиты от НСД" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="347" y="790" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-28" value="IAM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="362.5000000000001" y="840" width="72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-29" value="Keystone" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="448" y="840" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-30" value="Keycloak" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="362" y="888" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-31" value="Подсистема резервного копирования" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="347" y="955" width="263" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-32" value="Karboii" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="361" y="995" width="233" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-33" value="&lt;font&gt;Интерфейсы потребителей услуг&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcSize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingBottom=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="80" y="225" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-34" value="Подсистема потребителя облачных услуг" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="100" y="271" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-35" value="Портал самообслуживания" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="109.75" y="321" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-36" value="Terraform-провайдер" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="109.5" y="371" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-37" value="Подсистема администрирования" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="347" y="271" width="200" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-38" value="Портал администратора" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="362" y="321" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-39" value="Инструменты установки и управления конфигурацией" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="801" y="271" width="210" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-40" value="Nexus" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816" y="371" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-41" value="Ansible" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816" y="321" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-42" value="Инструменты диагностирования и регистрации событий" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="559" y="271" width="230" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-43" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="579" y="321" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-44" value="OpenSearch" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="579" y="371" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-45" value="Katana" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="362" y="371" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-46" value="Quota manager" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816.31" y="891" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-47" value="Внешние сервисы" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="81" y="928" width="229" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-48" value="Cloud Storage или MiniO" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="101" y="975" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-49" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="101" y="1065" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-50" value="NTP" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="204" y="1065" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-51" value="LDAP или AD" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="101" y="1019" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-52" value="&lt;font&gt;Группа подсистем SaaS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcSize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingBottom=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="81" y="750" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-53" value="Магазин приложений" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="101" y="790" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-54" value="XaaS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="111" y="838" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-55" value="Подсистема прикладного мониторинга и логирования" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=#E3E8F2;arcSize=12;fillColor=#FFF;spacing=12;verticalAlign=top;spacingTop=0;strokeWidth=4;spacingLeft=0;spacingBottom=0;fontStyle=1;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="630" y="955" width="380" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-56" value="Cloud Logging" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="647" y="1044" width="345" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-57" value="Cloud Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="647" y="995" width="345" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h5ZNKnBgla9y5IF8o7V-58" value="Octavia" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontColor=#212121;" parent="1" vertex="1">
+          <mxGeometry x="816" y="652" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
